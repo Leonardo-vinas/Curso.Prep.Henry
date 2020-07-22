@@ -1,0 +1,5 @@
+Variables: Lo podemos imaginar como si fuera una caja donde guardamos datos, estos pueden ser de cualquier tipo, números, caracteres, cadenas de caracteres, etc.
+Strings: Es un tipo de dato que está formado por caracteres consecutivos, llamados cadena de caracteres.
+Funciones (argumentos, return): Es la manera de reutilizar código, los argumentos son los parámetros a tener en cuenta para ver qué hago con los datos. El return es la devolución de los datos ya trabajados.
+Declaraciones if: Su traducción es sí, y la usamos para hacer alguna acción si los argumentos definidos son correctos.
+Valores booleanos (true, false): Estas variables sólo tienen 2 posibles valores, suelen usarse para determinar cuándo cambiar la acción que estamos haciendo pasando de un estado a otro. 
